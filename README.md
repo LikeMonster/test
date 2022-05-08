@@ -5,7 +5,7 @@ A new Flutter project.
 This is a "decision adventure" application where you can find several endings depending on the "path" you choose.
 
 
-##Status: FINISHED
+## Status: FINISHED
 
 ## Getting Started
 
